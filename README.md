@@ -1,2 +1,2 @@
 # Maze_solver
-This project use a star algorethem for finding the pathe in maze game
+This Python project implements the A* algorithm to efficiently solve mazes. A* is a widely-used pathfinding algorithm known for its effectiveness in finding the shortest path between two points while considering obstacles. The code provides a clear implementation of A* and includes a graphical interface to visualize the maze-solving process. This repository serves as a practical demonstration of A* algorithm usage in solving maze navigation problems.
